@@ -1,9 +1,10 @@
 header,
 footer,
+/* Color del navbar */
 .navbar {
   background-color: #084298;
 }
-
+/* Color del efecto hover */
 .nav-link:hover {
   background-color: #084298;
   color: #ffffff;
